@@ -26,7 +26,7 @@ author = "William Zantopulos"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "William Zantopulos'  personal website"
 keywords = ",personal"
-info = ["Network Administrator", "Systems Administrator"]
+info = ["Systems Administrator"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
