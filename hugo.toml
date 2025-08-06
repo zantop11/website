@@ -11,7 +11,7 @@ pagerSize = 6
 [services]
 [services.disqus]
 # Enable Disqus comments
-# shortname = "yourdiscussshortname"
+# shortname = "zantop"
 
 [markup]
 [markup.highlight]
@@ -24,11 +24,11 @@ unsafe = true
 [params]
 author = "William Zantopulos"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "William Zantopulos'  personal website"
-keywords = ",personal"
+description = "William Zantopulos' personal website"
+keywords = "personal"
 info = ["Systems Administrator"]
-avatarURL = "images/avatar.jpg"
-#gravatar = "john.doe@example.com"
+avatarURL = "assets/images/profile.jpg"
+#gravatar = "bj@julitantech.com"
 dateFormat = "January 2, 2006"
 since = 2025
 # Git Commit in Footer, uncomment the line below to enable it
