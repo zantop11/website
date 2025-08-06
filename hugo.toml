@@ -147,31 +147,36 @@ icon = "fa-brands fa-github fa-2x"
 weight = 1
 url = "https://github.com/zantop11/"
 
-[[params.social]]
-name = "Twitter"
-icon = "fa-brands fa-x-twitter fa-2x"
-weight = 3
-url = "https://twitter.com/johndoe/"
+#[[params.social]]
+#name = "Twitter"
+#icon = "fa-brands fa-x-twitter fa-2x"
+#weight = 3
+#url = "https://twitter.com/johndoe/"
 
+[[params.social]]
+name = "bluesky"
+icon = https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.streamlinehq.com%2Ficons%2Fdownload%2Fbluesky--31088&psig=AOvVaw1z-WMEptPnN8tUIYZ0VCtB&ust=1754592679982000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCMig_qft9o4DFQAAAAAdAAAAABAE
+weight = 2
+url = https://bsky.app/profile/zantop.bsky.social
 [[params.social]]
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
 weight = 4
 url = "https://www.linkedin.com/in/william-zantopulos-156395103/"
 
-[[params.social]]
-name = "Medium"
-icon = "fa-brands fa-medium fa-2x"
-weight = 5
-url = "https://medium.com/@johndoe"
+#[[params.social]]
+#name = "Medium"
+#icon = "fa-brands fa-medium fa-2x"
+#weight = 5
+#url = "https://medium.com/@johndoe"
 
-[[params.social]]
-name = "RSS"
-icon = "fa-solid fa-rss fa-2x"
-weight = 6
-url = "https://myhugosite.com/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
+#[[params.social]]
+#name = "RSS"
+#icon = "fa-solid fa-rss fa-2x"
+#weight = 6
+#url = "https://myhugosite.com/index.xml"
+#rel = "alternate"
+#type = "application/rss+xml"
 
 [languages.en]
 languageName = ":uk:"
