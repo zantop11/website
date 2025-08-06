@@ -157,7 +157,7 @@ url = "https://twitter.com/johndoe/"
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/william-zantopulos-156395103/"
 
 [[params.social]]
 name = "Medium"
