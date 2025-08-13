@@ -30,7 +30,7 @@ author = "William Zantopulos"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "William Zantopulos' personal website"
 keywords = "personal"
-info = ["Systems Administrator"]
+info = ["Windows Systems Administrator by day, Linux Systems Administrator by night."]
 avatarURL = "images/profile.jpg"
 #gravatar = "bj@julitantech.com"
 dateFormat = "January 2, 2006"
